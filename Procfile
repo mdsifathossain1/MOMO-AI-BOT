@@ -1,1 +1,1 @@
-worker: python momo.py
+worker: python MOMO.py
